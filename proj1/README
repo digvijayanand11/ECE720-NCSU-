@@ -1,0 +1,6 @@
+Project source files are in pdrm/src/rtl/proj1
+Top Module Name: maxr_lemt
+Source File List: htm.v
+Optimization Metric: A^2*D
+Approximate Cell Count: 5751
+Sequential Cell Count: 1549

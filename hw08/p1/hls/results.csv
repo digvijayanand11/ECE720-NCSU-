@@ -1,0 +1,3 @@
+date__begin,date__end,module_name,clk_per,realops,latency,throughput,critpath,area_mux,area_func,area_logic,area_buffer,area_mem,area_rom,area_reg,area_fsm_reg,area_fsm_comb,ram_count_single_port,ram_bits_single_port,ram_count_simple_dual_port,ram_bits_simple_dual_port,ram_count_true_dual_port,ram_bits_true_dual_port
+1732750116,1732750184,Reverser,1.5,41,65,64,1.4950549999999998,327.9,48.1,353.5,0.0,0.0,0.0,840.6,26.0,0.5,2,1024,0,0,0,0
+1732767604,1732767675,Reverser,1.5,41,65,64,1.4950549999999998,327.9,48.1,353.5,0.0,0.0,0.0,840.6,26.0,0.5,2,1024,0,0,0,0
