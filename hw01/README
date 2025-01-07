@@ -1,0 +1,21 @@
+Place your solution in this directory.
+
+Please modify this file with brief instructions for how to run your flow.
+
+__________________
+
+Instructions to run:
+
+Assumption: pdrm/ directory exits through local clone in hw01/
+
+1. Use the command "make" for HW01 (in home directory)
+   	
+	Runs in the order: Q1->Q4->Q2->Q3 [for tracking required prints on the screen]
+
+2. Selectively, 
+	
+	run "make q1" for q1 of HW01 
+	and lly, "make q2", "make q3", "make q4" for q2, q3, q4 for HW01
+
+	Default ARGS = 8 13 21 (for Q2)
+
